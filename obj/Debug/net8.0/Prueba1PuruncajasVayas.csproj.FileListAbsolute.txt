@@ -1,0 +1,5 @@
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.AssemblyInfoInputs.cache
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.AssemblyInfo.cs
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.csproj.CoreCompileInputs.cache
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.sourcelink.json

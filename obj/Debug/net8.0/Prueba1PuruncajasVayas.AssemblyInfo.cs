@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prueba1PuruncajasVayas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+436ff14e3204af0f078abc90629535379382fd10")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prueba1PuruncajasVayas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prueba1PuruncajasVayas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
