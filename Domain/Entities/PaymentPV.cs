@@ -1,8 +1,8 @@
 namespace Prueba1PuruncajasVayas.Domain.Entities
 {
     /// <summary>
-    /// Represents a payment entity with basic information
-    /// SRP: Single responsibility - holds payment data only
+    /// La clase de la entidad de pago con informacion basica
+    /// SRP: Una sola responsabilidad
     /// </summary>
     public class PaymentPV
     {

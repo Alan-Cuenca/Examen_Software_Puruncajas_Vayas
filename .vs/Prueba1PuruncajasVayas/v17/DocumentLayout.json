@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\application\\services\\paymentprocessorservicepv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:application\\services\\paymentprocessorservicepv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\infrastructure\\paymentmethods\\banktransferpaymentmethodpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:infrastructure\\paymentmethods\\banktransferpaymentmethodpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\infrastructure\\paymentmethods\\paypalpaymentmethodpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:infrastructure\\paymentmethods\\creditcardpaymentmethodpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\infrastructure\\paymentmethods\\banktransferpaymentmethodpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:infrastructure\\paymentmethods\\banktransferpaymentmethodpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\infrastructure\\notificationchannels\\emailnotificationchannelpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:infrastructure\\notificationchannels\\emailnotificationchannelpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\infrastructure\\notificationchannels\\smsnotificationchannelpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +29,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\infrastructure\\notificationchannels\\pushnotificationchannelpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:infrastructure\\notificationchannels\\pushnotificationchannelpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\infrastructure\\notificationchannels\\emailnotificationchannelpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:infrastructure\\notificationchannels\\emailnotificationchannelpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\domain\\interfaces\\ipaymentmethodpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -43,8 +43,8 @@
       "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:domain\\entities\\paymentpv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|c:\\users\\personal\\onedrive\\documents\\universidad\\quinto semestre\\sdd\\prueba1puruncajasvayas\\application\\services\\paymentprocessorservicepv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58E5FB89-C31C-40F7-BF9E-BD1C7D3D07E2}|Prueba1PuruncajasVayas.csproj|solutionrelative:application\\services\\paymentprocessorservicepv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,7 +66,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "BankTransferPaymentMethodPV.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
+              "RelativeToolTip": "Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:41:40.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CreditCardPaymentMethodPV.cs",
               "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\PaymentMethods\\CreditCardPaymentMethodPV.cs",
               "RelativeDocumentMoniker": "Infrastructure\\PaymentMethods\\CreditCardPaymentMethodPV.cs",
@@ -79,7 +92,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PayPalPaymentMethodPV.cs",
               "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\PaymentMethods\\PayPalPaymentMethodPV.cs",
               "RelativeDocumentMoniker": "Infrastructure\\PaymentMethods\\PayPalPaymentMethodPV.cs",
@@ -93,66 +106,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PaymentProcessorServicePV.cs",
-              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Application\\Services\\PaymentProcessorServicePV.cs",
-              "RelativeDocumentMoniker": "Application\\Services\\PaymentProcessorServicePV.cs",
-              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Application\\Services\\PaymentProcessorServicePV.cs",
-              "RelativeToolTip": "Application\\Services\\PaymentProcessorServicePV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABLAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:43:27.801Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "BankTransferPaymentMethodPV.cs",
-              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
-              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
-              "RelativeToolTip": "Infrastructure\\PaymentMethods\\BankTransferPaymentMethodPV.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:41:40.161Z",
+              "WhenOpened": "2025-10-07T15:18:26.572Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "EmailNotificationChannelPV.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
+              "RelativeToolTip": "Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T15:41:45.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "SmsNotificationChannelPV.cs",
               "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\SmsNotificationChannelPV.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NotificationChannels\\SmsNotificationChannelPV.cs",
               "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\SmsNotificationChannelPV.cs",
               "RelativeToolTip": "Infrastructure\\NotificationChannels\\SmsNotificationChannelPV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:41:50.229Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "PushNotificationChannelPV.cs",
               "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\PushNotificationChannelPV.cs",
               "RelativeDocumentMoniker": "Infrastructure\\NotificationChannels\\PushNotificationChannelPV.cs",
               "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\PushNotificationChannelPV.cs",
               "RelativeToolTip": "Infrastructure\\NotificationChannels\\PushNotificationChannelPV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:41:55.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "EmailNotificationChannelPV.cs",
-              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
-              "RelativeDocumentMoniker": "Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
-              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
-              "RelativeToolTip": "Infrastructure\\NotificationChannels\\EmailNotificationChannelPV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:41:45.377Z",
               "EditorCaption": ""
             },
             {
@@ -163,7 +163,7 @@
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IPaymentMethodPV.cs",
               "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Domain\\Interfaces\\IPaymentMethodPV.cs",
               "RelativeToolTip": "Domain\\Interfaces\\IPaymentMethodPV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:38:04.626Z",
               "EditorCaption": ""
@@ -176,7 +176,7 @@
               "RelativeDocumentMoniker": "Domain\\Interfaces\\INotificationChannelPV.cs",
               "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Domain\\Interfaces\\INotificationChannelPV.cs",
               "RelativeToolTip": "Domain\\Interfaces\\INotificationChannelPV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:38:55.275Z",
               "EditorCaption": ""
@@ -189,7 +189,7 @@
               "RelativeDocumentMoniker": "Domain\\Entities\\PaymentPV.cs",
               "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Domain\\Entities\\PaymentPV.cs",
               "RelativeToolTip": "Domain\\Entities\\PaymentPV.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-07T15:36:03.696Z",
               "EditorCaption": ""
@@ -197,14 +197,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAAABAAAAAAAAAA==",
+              "Title": "PaymentProcessorServicePV.cs",
+              "DocumentMoniker": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Application\\Services\\PaymentProcessorServicePV.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\PaymentProcessorServicePV.cs",
+              "ToolTip": "C:\\Users\\PERSONAL\\OneDrive\\Documents\\Universidad\\Quinto semestre\\SDD\\Prueba1PuruncajasVayas\\Application\\Services\\PaymentProcessorServicePV.cs",
+              "RelativeToolTip": "Application\\Services\\PaymentProcessorServicePV.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD4AAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-07T15:18:26.572Z",
+              "WhenOpened": "2025-10-07T15:43:27.801Z",
               "EditorCaption": ""
             }
           ]
