@@ -7,7 +7,7 @@ namespace Prueba1PuruncajasVayas.Infrastructure.NotificationChannels
     /// <summary>
     /// Implementacion del canal de notificacion por email
     /// SRP: Responsabiliad unica - maneja solo notificaciones por email
-    /// OCP: Extensible para nuevos canales sin modificar codigo existente
+    /// OCP: Hereda el canal de notificacion sin modificar codigo existente
     /// LSP: Puede sustituir la interfaz sin alterar el comportamiento
     /// </summary>
     public class EmailNotificationChannelPV : INotificationChannelPV
@@ -15,9 +15,9 @@ namespace Prueba1PuruncajasVayas.Infrastructure.NotificationChannels
         public void SendNotificationPV(PaymentPV payment)
         {
             // Simulacion del envio por email
-            Console.WriteLine($"[EMAIL] Sending notification to {payment.UserNamePV}:");
-            Console.WriteLine($"  Status: {(payment.IsSuccessfulPV ? "SUCCESS" : "FAILED")}");
-            Console.WriteLine($"  Message: {payment.MessagePV}");
+            Console.WriteLine($"[EMAIL] Enviando notificaciones a {payment.UserNamePV}:");
+            Console.WriteLine($"  Estado: {(payment.IsSuccessfulPV ? "Exitoso" : "Fallido")}");
+            Console.WriteLine($"  Mensaje: {payment.MessagePV}");
             Console.WriteLine();
         }
     }

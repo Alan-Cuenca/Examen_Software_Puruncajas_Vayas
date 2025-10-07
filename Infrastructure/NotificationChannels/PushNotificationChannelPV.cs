@@ -15,9 +15,9 @@ namespace Prueba1PuruncajasVayas.Infrastructure.NotificationChannels
         public void SendNotificationPV(PaymentPV payment)
         {
             // Simulacion del envio de notifiaciones por notis push
-            Console.WriteLine($"[PUSH] Sending notification to {payment.UserNamePV}:");
-            Console.WriteLine($"  Status: {(payment.IsSuccessfulPV ? "SUCCESS" : "FAILED")}");
-            Console.WriteLine($"  Message: {payment.MessagePV}");
+            Console.WriteLine($"[PUSH] Enviando notificacion a  {payment.UserNamePV}:");
+            Console.WriteLine($"  Estado: {(payment.IsSuccessfulPV ? "Exitoso" : "Fallido")}");
+            Console.WriteLine($"  Mensaje: {payment.MessagePV}");
             Console.WriteLine();
         }
     }

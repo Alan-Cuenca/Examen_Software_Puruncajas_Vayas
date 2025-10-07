@@ -48,13 +48,13 @@ namespace Prueba1PuruncajasVayas.Application.Services
         private void DisplayPaymentSummaryPV(PaymentPV payment)
         {
             Console.WriteLine("========================================");
-            Console.WriteLine("         PAYMENT SUMMARY");
+            Console.WriteLine("         Resumen de Pago");
             Console.WriteLine("========================================");
-            Console.WriteLine($"User:          {payment.UserNamePV}");
-            Console.WriteLine($"Amount:        ${payment.AmountPV:F2}");
-            Console.WriteLine($"Payment Type:  {payment.PaymentTypePV}");
-            Console.WriteLine($"Status:        {(payment.IsSuccessfulPV ? "SUCCESS" : "FAILED")}");
-            Console.WriteLine($"Message:       {payment.MessagePV}");
+            Console.WriteLine($"Usuario:          {payment.UserNamePV}");
+            Console.WriteLine($"Monto:        ${payment.AmountPV:F2}");
+            Console.WriteLine($"Metodo de pago:  {payment.PaymentTypePV}");
+            Console.WriteLine($"Estado:        {(payment.IsSuccessfulPV ? "Exitoso" : "Fallido")}");
+            Console.WriteLine($"Mensaje:       {payment.MessagePV}");
             Console.WriteLine("========================================");
             Console.WriteLine();
         }
@@ -64,7 +64,7 @@ namespace Prueba1PuruncajasVayas.Application.Services
         /// </summary>
         private void NotifyAllChannelsPV(PaymentPV payment)
         {
-            Console.WriteLine("Sending notifications...");
+            Console.WriteLine("Enviando notificaciones...");
             Console.WriteLine();
 
             for (int i = 0; i < _notificationChannelsPV.Length; i++)

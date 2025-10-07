@@ -3,3 +3,13 @@ C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1Puru
 C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.AssemblyInfo.cs
 C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.csproj.CoreCompileInputs.cache
 C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.sourcelink.json
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\bin\Debug\net8.0\Prueba1PuruncajasVayas.exe
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\bin\Debug\net8.0\Prueba1PuruncajasVayas.deps.json
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\bin\Debug\net8.0\Prueba1PuruncajasVayas.runtimeconfig.json
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\bin\Debug\net8.0\Prueba1PuruncajasVayas.dll
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\bin\Debug\net8.0\Prueba1PuruncajasVayas.pdb
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.dll
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\refint\Prueba1PuruncajasVayas.dll
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.pdb
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\Prueba1PuruncajasVayas.genruntimeconfig.cache
+C:\Users\PERSONAL\OneDrive\Documents\Universidad\Quinto semestre\SDD\Prueba1PuruncajasVayas\obj\Debug\net8.0\ref\Prueba1PuruncajasVayas.dll
